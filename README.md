@@ -18,6 +18,6 @@ Percent Error: A percent error of 6.73% indicates that, on average, the model's 
 
 r2: An r2 value of 95.93% indicates that this model captures 95.93% of the variability in BTC prices. This suggests that the model fits the data well.
 
-Mean Absolute Error (MAE): A Mean Absolute Error of $2538.27 indicate that, on averaeg, the model's predictions are off by $2538.27. We did not implement cross-validation since our data is a time-series using lagged features requiring it to use other methods of cross-validation.
+Mean Absolute Error (MAE): A Mean Absolute Error of $2538.27 indicate that, on average, the model's predictions are off by $2538.27. We did not implement cross-validation since our data is a time-series using lagged features requiring it to use other methods of cross-validation.
 
 ## Long Short Terrm Memory
