@@ -21,3 +21,9 @@ r2: An r2 value of 95.93% indicates that this model captures 95.93% of the varia
 Mean Absolute Error (MAE): A Mean Absolute Error of $2538.27 indicate that, on average, the model's predictions are off by $2538.27. We did not implement cross-validation since our data is a time-series using lagged features requiring it to use other methods of cross-validation.
 
 ## Long Short Terrm Memory
+![image](https://github.com/user-attachments/assets/87856c17-8ced-47cb-9eec-4bf9b178b4e4)
+Root Mean Squared Error (RMSE): An RMSE of $5356.21 indicate that, on average, accounting for squared differences, the model's predictions are off by $5356.21.
+
+r2: An r2 value of 90.09% indicates that this model captures 90.09% of the variability in BTC prices. This suggests that the model fits the data well.
+
+Mean Absolute Error (MAE): A Mean Absolute Error of $3580.96 indicate that, on average, the model's predictions are off by $3580.96. We did not implement cross-validation since our data is a time-series using lagged features requiring it to use other methods of cross-validation.
